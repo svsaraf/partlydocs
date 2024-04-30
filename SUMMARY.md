@@ -1,8 +1,8 @@
 # Table of contents
 
 * [How to sign up for Partly](README.md)
-* [How to get pay outs via Partly](how-to-get-pay-outs-via-partly.md)
 
-## Group 1
+## Individual contractors
 
-* [Another page](group-1/another-page.md)
+* [How to get pay outs via Partly](individual-contractors/how-to-get-pay-outs-via-partly.md)
+* [Another page](individual-contractors/another-page.md)
