@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [How to sign up for Partly](README.md)
