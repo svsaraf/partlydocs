@@ -5,4 +5,3 @@
 ## Individual contractors
 
 * [How to get pay outs via Partly](individual-contractors/how-to-get-pay-outs-via-partly.md)
-* [Another page](individual-contractors/another-page.md)
